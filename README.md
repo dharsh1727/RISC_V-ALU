@@ -8,9 +8,10 @@ The design supports both:
 * Register-Immediate operations (I-type)
 
 ---
-Author
+## Author
 Priyadharshan L 
 BE.ECE @ CEG, Anna University
+
 ---
 
 ## Architecture
