@@ -9,8 +9,9 @@ The design supports both:
 
 ---
 ## Author
-Priyadharshan L 
-BE.ECE @ CEG, Anna University
+**Priyadharshan L**  
+B.E., Electronics and Communication Engineering  
+College of Engineering, Guindy, Anna University 
 
 ---
 
